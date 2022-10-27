@@ -15,6 +15,5 @@ public class MainActivity extends Activity {
 
         Intent intent = new Intent(MainActivity.this, SplashScreenAnimationActivity.class);
         startActivity(intent);
-
     }
 }
