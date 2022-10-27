@@ -129,8 +129,6 @@ afterEvaluate {
                 version = '2.2.18'
             }
         }
-        repositories {
-            mavenLocal()
-        }
+
     }
 }
