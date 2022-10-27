@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/.gradle/caches/transforms-3/55f96c9a5e01b9f2496fcbc3d9319178/transformed/jetified-auro_sdk-2.2.7/res/drawable/tab_bg.xml" value="0.1" />
+        <entry key="..\:/Users/user/.gradle/caches/transforms-3/55f96c9a5e01b9f2496fcbc3d9319178/transformed/jetified-auro_sdk-2.2.7/res/layout/activity_enter_pin.xml" value="0.25" />
+        <entry key="..\:/Users/user/.gradle/caches/transforms-3/55f96c9a5e01b9f2496fcbc3d9319178/transformed/jetified-auro_sdk-2.2.7/res/layout/activity_forgot_pin.xml" value="0.1" />
+        <entry key="..\:/Users/user/.gradle/caches/transforms-3/db2d6887841dc94cee8645673dcf784a/transformed/auro_sdk-2.2.7/res/drawable/tab_bg.xml" value="0.107" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ankesh_auroscholar_application/SDK AUROSCHOLAR/AuroSDKTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

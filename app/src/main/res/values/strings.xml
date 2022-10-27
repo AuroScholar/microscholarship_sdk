@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AuroSDKTest</string>
+    <string name="book_my_seat">book_my_seat</string>
+    <string name="bundleavailableSlotResModel">bundleavailableSlotResModel</string>
+    <string name="choose_your_slot">choose_your_slot</string>
+    <string name="date_amp_time">date_amp_time</string>
+    <string name="invite_your_Student">invite_your_Student</string>
+    <string name="kyc_verification">kyc_verification</string>
+    <string name="load_quiz_error">load_quiz_error</string>
+    <string name="on_step_info">on_step_info</string>
+    <string name="pref_tutorial">pref_tutorial</string>
+    <string name="select_single_slot">select_single_slot</string>
+    <string name="something">something</string>
+    <string name="successfully_send">successfully_send</string>
+    <string name="teacher_info_title">teacher_info_title</string>
+    <string name="title_activity_verify_with_phone_no">title_activity_verify_with_phone_no</string>
+    <string name="tutorial_kyc">tutorial_kyc</string>
+    <string name="tutorial_link">tutorial_link</string>
+    <string name="tutorial_profile">tutorial_profile</string>
+    <string name="tutorial_video_info">tutorial_video_info</string>
+
+
+</resources>
