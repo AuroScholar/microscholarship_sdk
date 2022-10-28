@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.application'
-
+    id 'maven-publish'
 }
 android {
     compileSdkVersion 33
@@ -102,7 +102,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 }
 apply plugin: 'com.google.firebase.crashlytics'
-apply plugin: 'maven-publish'
+//apply plugin: 'maven-publish'
 
 afterEvaluate {
     publishing {
@@ -111,7 +111,7 @@ afterEvaluate {
                artifact("$buildDir/outputs/aar/${artifactId}-release.aar")
                 groupId = 'com.github.AuroScholar'
                 artifactId = 'microscholarship_sdk'
-                version = '2.2.20'
+                version = '2.2.21'
             }
         }
 
